@@ -1,0 +1,90 @@
+1298
+1027
+Left side of Event columm
+1298
+1027
+Right side of Event columm
+1299
+1027
+Hidden
+1299
+1027
+Shown
+1300
+1027
+Navigate columns and text/value
+1300
+1027
+Navigate columns only
+1300
+1027
+Navigate text/value only
+1297
+1027
+Hidden
+1297
+1027
+1 Sample
+1297
+1027
+  1 Sample
+1297
+1027
+001 Sample
+1297
+1027
+[1] Sample
+1297
+1027
+[  1] Sample
+1297
+1027
+[001] Sample
+1295
+1027
+Hidden
+1295
+1027
+Shown
+1296
+1027
+Bright
+1296
+1027
+Dark
+1296
+1027
+Dull
+1301
+1027
+Disabled
+1301
+1027
+Whole line
+1301
+1027
+Only Mea|Tick|Step columns
+1301
+1027
+Only if colorless
+1301
+1027
+Only Mea|Tick|Step columns and notes
+1302
+1027
+Show each
+1302
+1027
+Show 1 each measure (keep on screen)
+1302
+1027
+Show 1 each measure
+1303
+1027
+Disabled
+1303
+1027
+Enabled
+1303
+1027
+Enabled (includes coinciding notes)

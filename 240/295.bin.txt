@@ -1,0 +1,45 @@
+1389
+1027
+ON: Sync OFF: Async
+1389
+1027
+ON: Sync OFF: Async (playback)
+1390
+1027
+Default
+1390
+1027
+Draw all borders and fills
+1391
+1027
+Disabled
+1391
+1027
+Ascending
+1391
+1027
+Descending
+1392
+1027
+Current selection only
+1392
+1027
+Include next selection
+1393
+1027
+60
+1393
+1027
+C  4 [ 60]
+1393
+1027
+ 60 C  4
+1393
+1027
+C 4  60
+1546
+1027
+Apply only
+1546
+1027
+Apply then proceed next entry

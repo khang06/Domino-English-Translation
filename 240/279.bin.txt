@@ -1,0 +1,60 @@
+1294
+1027
+4 beats
+1294
+1027
+8 beats
+1294
+1027
+16 beats
+1295
+1027
+Hidden
+1295
+1027
+Shown
+1296
+1027
+All tracks
+1296
+1027
+Each track
+1298
+1027
+Hidden
+1298
+1027
+Shown
+1299
+1027
+Do not scroll
+1299
+1027
+Fixed to playhead
+1299
+1027
+Fixed to playhead (left edge)
+1299
+1027
+Fixed to playhead (left-margined)
+1299
+1027
+Fixed to playhead (center)
+1300
+1027
+Do nothing
+1300
+1027
+Adjust velocity 
+1300
+1027
+Adjust gate
+1301
+1027
+Hidden
+1301
+1027
+C
+1301
+1027
+Key number (white keys only)

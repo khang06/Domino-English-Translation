@@ -1,0 +1,15 @@
+1505
+1027
+Only note-on
+1505
+1027
+Include note gates
+1507
+1027
+show warning.
+1507
+1027
+automatically adjust the volume to x.
+1507
+1027
+prompt to adjust the volume to x.

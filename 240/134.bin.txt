@@ -1,0 +1,15 @@
+1013
+1027
+Disabled
+1013
+1027
+Only when window is active
+1013
+1027
+Always
+1018
+1027
+From device input
+1018
+1027
+From track's default velocity

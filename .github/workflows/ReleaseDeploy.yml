@@ -1,0 +1,53 @@
+on: workflow_dispatch
+
+name: Release Deployment
+
+jobs:
+  deploy:
+    name: Deployment
+    runs-on: windows-latest
+    if: github.actor == github.event.repository.owner.login
+    defaults:
+      run:
+        shell: bash
+    steps:
+
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install required packages
+        run: choco install reshack
+
+      - name: Build
+        id: build
+        run: |
+          cd _script
+          bash workflow/build-all-release.sh
+
+      - name: Write release body
+        run: |
+          echo "\
+          ## Release Notes
+
+          ----
+
+          *Built on ${{steps.build.outputs.BUILD_DATE_FULL}}.*" >> release.txt
+          
+      - name: Create release
+        uses: softprops/action-gh-release@v1
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        with:
+          tag_name: en.${{steps.build.outputs.VERSION_NUM}}
+          name: Build ${{steps.build.outputs.VERSION_NUM}} (Release)
+          files: |
+            _script/dist/Domino143_Translated.zip
+            _script/dist/Domino143_Translated.exe
+            _script/dist/Domino144_Translated.zip
+            _script/dist/Domino144_Translated.exe
+            _script/dist/Domino145_dev006_x86_Translated.zip
+            _script/dist/Domino145_dev006_x86_Translated.exe
+            _script/dist/Domino145_dev006_x64_Translated.zip
+            _script/dist/Domino145_dev006_x64_Translated.exe
+          body_path: release.txt
+          draft: true

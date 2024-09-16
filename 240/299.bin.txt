@@ -1,0 +1,45 @@
+1297
+1027
+Hidden
+1297
+1027
+1 Sample
+1297
+1027
+  1 Sample
+1297
+1027
+001 Sample
+1297
+1027
+[1] Sample
+1297
+1027
+[  1] Sample
+1297
+1027
+[001] Sample
+1415
+1027
+by length
+1415
+1027
+by type and length
+1307
+1027
+Open
+1307
+1027
+Copy to clipboard
+1308
+1027
+On event selection
+1308
+1027
+On next measure
+1309
+1027
+Discard
+1309
+1027
+Keep

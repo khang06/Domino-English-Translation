@@ -1,0 +1,24 @@
+1299
+1027
+Do not scroll
+1299
+1027
+Fixed to playhead
+1299
+1027
+Fixed to playhead (left edge)
+1299
+1027
+Fixed to playhead (left-margined)
+1299
+1027
+Fixed to playhead (center)
+1385
+1027
+Hidden
+1385
+1027
+Translucent rectangle
+1385
+1027
+Color inversion

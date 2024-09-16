@@ -1,0 +1,75 @@
+1262
+1027
+Measure : Tick
+1262
+1027
+Measure : Beat : Tick
+1264
+1027
+Note 60 = C4
+1264
+1027
+Note 60 = C3
+1263
+1027
+Do nothing
+1263
+1027
+Tie notes
+1329
+1027
+Right side
+1329
+1027
+Below Event list
+1329
+1027
+Left side
+1300
+1027
+1 pixel
+1300
+1027
+2 pixels
+1304
+1027
+0-127
+1304
+1027
+1-128
+1305
+1027
+Pause
+1305
+1027
+Restart
+1305
+1027
+On selected event
+1305
+1027
+Restart without scrolling back
+1306
+1027
+Pause
+1306
+1027
+Restart
+1306
+1027
+On selected event
+1306
+1027
+Restart without scrolling back
+1307
+1027
+On current playhead
+1307
+1027
+On initial pause position
+1308
+1027
+Show labels only
+1308
+1027
+Show labels with its measure number

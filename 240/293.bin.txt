@@ -1,0 +1,54 @@
+1376
+1027
+Quantization (+[Ctrl])
+1376
+1027
+Off (+[Ctrl])
+1376
+1027
+On (+[Ctrl])
+1295
+1027
+Off (+[Alt])
+1295
+1027
+On (+[Alt])
+1296
+1027
+Quantization (+[Ctrl])
+1296
+1027
+Off (+[Ctrl])
+1296
+1027
+On (+[Ctrl])
+1297
+1027
+Off (+[Alt])
+1297
+1027
+On (+[Alt])
+1298
+1027
+Quantization (+[Ctrl])
+1298
+1027
+Off (+[Ctrl])
+1298
+1027
+On (+[Ctrl])
+1299
+1027
+Hidden
+1299
+1027
+Shown
+1300
+1027
+Bright
+1300
+1027
+Dull
+1300
+1027
+Dark

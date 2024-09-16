@@ -1,10 +1,9 @@
 
-  MIDI音楽編集ソフト「Domino」
+  "Domino" MIDI/Music Editor Software
   Copyright (C) 2007-2013 Takabo Soft (http://takabosoft.com/)
 
-
-この度はDominoをダウンロードしていただき、誠に有り難うございます。
-取扱説明書は↓こちらになりますので、詳しくはそちらをご覧ください。
+Thank you very much for downloading Domino!
+Please read the User Manual for details which can be found in the following directory: 
 Manual/index.htm
 
-（アプリ起動中に[F1]キーを押しても取扱説明書を見ることができます）
+(Alternatively, you can open the User Manual by pressing the [F1] key within the application.)
